@@ -1,6 +1,7 @@
 ---
 title: MissionJS
 layout: mission
+description: More like Mission Impossible than Mission District, but that too, I guess.
 ---
 
 A weekly free + public hangout for people that want to talk about JavaScript or
