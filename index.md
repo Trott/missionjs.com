@@ -2,6 +2,7 @@
 title: MissionJS
 layout: mission
 ---
+
 A weekly free + public hangout for people that want to talk about JavaScript or
 contribute to Node.js or whatever in San Francisco, California. No
 presentations, RSVPs, pitches, etc. Just show up, hack, learn, drink espresso,
