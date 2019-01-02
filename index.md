@@ -17,4 +17,4 @@ Every Wednesday, 7:00-ish PM - closing
 
 [Atlas Cafe](http://www.atlascafe.net/) (3049 20th St.)
 
-All attendees are expected to follow the [JSConf Code of Conduct](href="http://jsconf.com/codeofconduct.html).
+All attendees are expected to follow the [JSConf Code of Conduct](http://jsconf.com/codeofconduct.html).
