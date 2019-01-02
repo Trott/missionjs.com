@@ -13,6 +13,8 @@ confront existential angst, or whatever.
 
 Every Wednesday, 7:00-ish PM - closing
 
+**Nota Bene:** This event will be postponed when it coincides with [waffle.js](https://wafflejs.com).
+
 ## Where
 
 [Atlas Cafe](http://www.atlascafe.net/) (3049 20th St.)
